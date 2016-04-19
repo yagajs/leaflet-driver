@@ -1,4 +1,4 @@
-# leaflet-driver
-A driven version of the abstract yaga one with leaflet
+# leaflet-driver for the yaga framework
+A driven version of the abstract yaga one with leaflet.
 
-For more information please take a look at yaga base module...
+*For more information please take a look at yaga base module...*
